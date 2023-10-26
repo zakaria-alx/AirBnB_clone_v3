@@ -151,5 +151,5 @@ EOF  all  create  destroy  help  quit  show  update
 ```
 
 ## Authors
-Souheila Sidennas - [Github](https://github.com/souheilaso) / [Twitter](https://twitter.com/)  
+Souheila Sidennas - [Github](https://github.com/souheilaso) / [Twitter](https://twitter.com/souheilass)  
 Zakaria Khonchafi - [Github](https://github.com/zakaria-alx) / [Twitter](https://twitter.com/zakaria_kh0)
